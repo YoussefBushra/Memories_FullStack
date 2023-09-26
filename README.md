@@ -1,15 +1,13 @@
 # Memories
 
-![Memories](https://i.ibb.co/7CmVbCW/image.png)
+![image](https://github.com/YoussefBushra/Memories_FullStack/assets/50061585/b39c904b-f8bc-44d8-83bf-060d993b34fe)
+
 
 ## Introduction
-This is a code repository for the corresponding video tutorial - https://youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu.
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+A feature-rich web application using MERN stack and Redux for state management; enabled seamless 
+sharing of memories, incorporating email/Google authentication, search & filtering functionalities, pagination, comments, and 
+recommendations, while considering the recommended performance timings
 
-By the end of this video, you will have a strong understanding of how the MERN Stack works.
-
-Setup:
+## Setup
 - run ```npm i && npm start``` for both client and server side to start the app
-
-TODO: rename post message, refactor reducers, add some cool memories, maybe clickable tags, fix update functionality
